@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-TODO: create an "intro to mugenmonkey" post and link it here
-
 This blog will primarily serve the following purposes:
 
 - Provide a better platform than Twitter for announcements and release notes for Mugenmonkey
