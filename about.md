@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This blog will primarily serve the following purposes:
+[Mugenmonkey](https://mugenmonkey.com) is a site dedicated to providing calculators and character planners
+for all of the Soulsborne (Demon's Souls, Dark Souls 1/2/3, Bloodborne) games.
 
-- Provide a better platform than Twitter for announcements and release notes for Mugenmonkey
-- Somewhere to post interesting technical things I write or discover while working on Mugenmonkey
-- A place for me to ramble about random things (which will probably be mostly about Mugenmonkey - but no promises)
+This blog is a blog dedicated to talking about a site dedicated to providing
+calculators and character planners for all of the Soulsborne games.
+
+This page is an "About" page dedicated to explaining the purpose of a blog dedicated
+to talking about a site dedicated to providing calculators and character planners
+for all of the Soulsborne games.
