@@ -10,8 +10,7 @@ title: Mugenmonkey Blog
 email: naiyt@mugenmonkey.com
 description: > # this means to ignore newlines until "baseurl:"
   A blog for me to talk about random stuff related (perhaps tangentially?) to the
-  Mugenmonkey Soulsborne character planners. This will also contain announcements/changelogs
-  for the site and some occasional technical posts. \[T]/
+  Mugenmonkey Soulsborne character planners. \[T]/
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mugenmonkey.github.io" # the base hostname & protocol for your site
 twitter_username: mugenmonkey
