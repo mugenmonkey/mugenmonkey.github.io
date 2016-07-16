@@ -18,6 +18,10 @@ something might have been inputted wrong, so if you see any problems let me know
 by [filling out this form](http://goo.gl/forms/bLUkmMau5U), yelling at me on [Twitter](https://twitter.com/mugenmonkey),
 or leaving a comment on this post.)
 
+As an aside, AR is pretty complicated in DS3 (as is the method by which you have to extract scaling modifiers).
+I'm considering writing a blog post outlining the whole process and formula -- if that interests you,
+leave a comment!
+
 * Fixed a bug causing AR to not be reset on weapon change unless you switched infusions
 
 This bug was caused by another bugfix I released earlier this week...don't hate, code is tricky. :O
