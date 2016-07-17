@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Release notes: AR updated for Regulation 1.09"
+title: "DS3 Planner Release notes: AR updated for Regulation 1.09"
 date:   2016-07-16 16:49:52 -0600
 comments: true
 ---
