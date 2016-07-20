@@ -24,4 +24,4 @@ This has been some time in the making, so I'm glad to finally get it working. As
 if you see bugs or miscalculations.
 
 If you're interested in a technical overview of these changes you can take a look
-[at this post]({% post_url 2016-07-10-technical-overview-of-effect-handling %})
+[at this post]({% post_url 2016-07-19-technical-overview-of-effect-handling %})
