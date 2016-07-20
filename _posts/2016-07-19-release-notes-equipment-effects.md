@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DS3 Planner Release notes: Equipment effects added and updated"
+title: "DS3 Planner Release Notes: Equipment Effects Added and Updated"
 date:   2016-07-19 12:24:36 -0600
 comments: true
 ---
