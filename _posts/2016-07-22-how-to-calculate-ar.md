@@ -107,6 +107,13 @@ Int Coefficient = Int Scaling Coefficient * Magic Saturation
 Magic Bonus = Base Magic * Int Coefficient
 ```
 
+The one exception is the Golden Ritual Spear which receives Magic Damage from Faith Scaling:
+
+```
+Faith Coefficient = Faith Scaling Coefficient * Magic Saturation
+Golden Ritual Spear Magic Bonus = Base Magic * Faith Coefficient
+```
+
 # Fire Bonus
 
 Fire is affected by Intelligence and Faith:
@@ -166,14 +173,14 @@ Physical Bonus = 112 * Physical Coefficients
 
 To get our strength coefficient, we need to find the "strength scaling coefficient" and the "physical saturation". Going back to the spreadsheet we'll find that the strength coefficient for the Dark Falchion is `30`.
 
-For the saturation value, we look at the `Physical` column in the `Saturation Values Functions` section. We'll see that we want function `0`. So, we open the "Saturation Values" tab. From there, we find the `Level 15` (15 is our current strength) column for the `Function Index - 0` row -- this gives us `19.80409249`.
+For the saturation value, we look at the `Physical` column in the `Saturation Curvs` section. We'll see that we want curve `0`. So, we open the "Saturation Curves" tab. From there, we find the `Level 15` (15 is our current strength) column for the `Curve Index - 0` row -- this gives us `19.80409249`.
 
 
 ```
 Strength Coefficient = 30/100 * 19.80409249/100 =~ 0.0594
 ```
 
-We follow a similar pattern for the dex coefficient, this time getting `54` for our scaling coefficient and `23.24584203` for our saturation (this was the value in the `Level 17` column in the `Function Index - 0` row):
+We follow a similar pattern for the dex coefficient, this time getting `54` for our scaling coefficient and `23.24584203` for our saturation (this was the value in the `Level 17` column in the `Curve Index - 0` row):
 
 ```
 Dex Coefficient = 54/100 * 23.24584203/100 =~ 0.1256
@@ -193,13 +200,13 @@ The Dark bonus would be:
 Dark Bonus = 145.6 * Dark Coefficients
 ```
 
-Our int scaling coefficient is `77` and the saturation value is `75` (the "Level 40" column for stat function 0):
+Our int scaling coefficient is `77` and the saturation value is `75` (the "Level 40" column for stat curve 0):
 
 ```
 Int Coefficient = 77/100 * 75/100 =~ 0.5775
 ```
 
-The faith coefficient is `77` and the saturation value for level 35 in function 0 is `66.55058206`:
+The faith coefficient is `77` and the saturation value for level 35 in curve 0 is `66.55058206`:
 
 ```
 Faith Coefficient = 77/100 * 66.55058206/100 =~ 0.5124
