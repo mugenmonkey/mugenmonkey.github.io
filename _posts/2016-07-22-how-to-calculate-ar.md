@@ -173,7 +173,7 @@ Physical Bonus = 112 * Physical Coefficients
 
 To get our strength coefficient, we need to find the "strength scaling coefficient" and the "physical saturation". Going back to the spreadsheet we'll find that the strength coefficient for the Dark Falchion is `30`.
 
-For the saturation value, we look at the `Physical` column in the `Saturation Curvs` section. We'll see that we want curve `0`. So, we open the "Saturation Curves" tab. From there, we find the `Level 15` (15 is our current strength) column for the `Curve Index - 0` row -- this gives us `19.80409249`.
+For the saturation value, we look at the `Physical` column in the `Saturation Curves` section. We'll see that we want curve `0`. So, we open the "Saturation Curves" tab. From there, we find the `Level 15` (15 is our current strength) column for the `Curve Index - 0` row -- this gives us `19.80409249`.
 
 
 ```
