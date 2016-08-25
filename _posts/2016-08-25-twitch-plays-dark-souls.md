@@ -31,3 +31,7 @@ The basic structure was:
 - The `Action` would then invoke an AutoHotKey script with the requested action that would send the command to the game.
 
 It should have been possible to send the commands directly to the game with Python but I could never get that to work, which is the reason I ended up using AutoHotKey. Had I spent more time on it I'm sure I could have found a more elegant solution. (But sometimes the most elegant solution is just the one that works.)
+
+# One Final Thing
+
+As an aside, I still own the TwitchPlaysDarkSouls Twitch user. This explains why the popular one goes by TwitchPlaysDark -- in case you ever wondered. :D
