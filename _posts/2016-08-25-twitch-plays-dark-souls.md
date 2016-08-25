@@ -34,4 +34,4 @@ It should have been possible to send the commands directly to the game with Pyth
 
 # One Final Thing
 
-As an aside, I still own the TwitchPlaysDarkSouls Twitch user. This explains why the popular one goes by TwitchPlaysDark -- in case you ever wondered. :D
+As an aside, I still own the TwitchPlaysDarkSouls Twitch account. This explains why the popular one went by TwitchPlaysDark -- in case you ever wondered. :D
