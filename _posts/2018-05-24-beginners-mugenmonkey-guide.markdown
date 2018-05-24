@@ -7,7 +7,7 @@ comments: true
 
 With the release of Dark Souls Remastered there will likely be a lot of new or returning MugenMonkey users. MugenMonkey is (unfortunately) a bit intimidating at first. So here's a guide that will hopefully help those new players!
 
-Additionally, I've recently released a mobile app for the DS1 planner as well! Download it for [iOS here] and [Android here](https://play.google.com/store/apps/details?id=com.mugenmonkeyfordarksouls1). I've also written a short blog post on [that as well](https://blog.mugenmonkey.com/2018/05/24/ds1-mobile-app.html).
+Additionally, I've recently released a mobile app for the DS1 planner as well! Download it for [iOS here](https://itunes.apple.com/us/app/mugenmonkey-for-dark-souls-1) and [Android here](https://play.google.com/store/apps/details?id=com.mugenmonkeyfordarksouls1). I've also written a short blog post on [that as well](https://blog.mugenmonkey.com/2018/05/24/ds1-mobile-app.html).
 
 ## The Why
 
