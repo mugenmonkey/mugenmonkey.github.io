@@ -8,7 +8,7 @@ comments: true
 As of today you can download a native mobile app for the MugenMonkey Dark Souls 1 character planner!
 
 * [Android](https://play.google.com/store/apps/details?id=com.mugenmonkeyfordarksouls1)
-* [iOS](https://itunes.apple.com/us/app/mugenmonkey-for-dark-souls-1)
+* [iOS](https://itunes.apple.com/us/app/mugenmonkey-for-dark-souls-1/id1383522159)
 
 If you're brand new to using MugenMonkey then you might want to start by checking out [this guide](http://blog.mugenmonkey.com/2018/05/24/beginners-mugenmonkey-guide.html).
 
