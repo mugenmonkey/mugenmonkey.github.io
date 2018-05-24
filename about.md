@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[Mugenmonkey](https://mugenmonkey.com) is a site dedicated to providing calculators and character planners
+[MugenMonkey](https://mugenmonkey.com) is a site dedicated to providing calculators and character planners
 for all of the Soulsborne (Demon's Souls, Dark Souls 1/2/3, Bloodborne) games.
 
 This blog is a blog dedicated to talking about a site dedicated to providing

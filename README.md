@@ -1,2 +1,2 @@
 # mugenmonkey.github.io
-Mugenmonkey blog
+MugenMonkey blog
