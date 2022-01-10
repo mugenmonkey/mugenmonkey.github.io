@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Dark Souls 3 MugenMonkey API"
-date:   2017-09-10 14:46:00 -0600
-comments: true
+date: 2017-09-10 14:46:00 -0600
 ---
 
-*tl;dr - if you want to skip some background, usage instructions, and tips, then jump to the bottom of the post to find the "Endpoints" section.*
+_tl;dr - if you want to skip some background, usage instructions, and tips, then jump to the bottom of the post to find the "Endpoints" section._
 
 When I built the Dark Souls 3 MugenMonkey planner I put together an API just for my purposes. This is used for the regular MugenMonkey frontend and for the mobile app. I was talking with some people over Twitter last week and learned that there was some potential interest in others being able to use this API. As such, I've decided to provide some simple documentation on it.
 
@@ -103,10 +102,10 @@ See the specific endpoint for available associations.
 - **Route**: [https://mugenmonkey.com/api/v0/ds3_builds](https://mugenmonkey.com/api/v0/ds3_builds)
 - **Available associations**: `head, body, arms, legs, ring1, ring2, ring3, ring4, lh1, lh2, lh3, rh1, rh2, rh3, spell1, spell2, spell3, spell4, spell5, spell6, spell7, spell8, spell9, spell10`
 - **Optional Filters**:
-    - `by_user_name` - find a particular user's public builds. e.g., `/api/v0/ds3_builds?by_user_name=naiyt`
-    - `level_from` - builds will be greater than this value
-    - `level_to` - builds will be less than this value
-    - `by_title` - search for builds with this string in their title
+  - `by_user_name` - find a particular user's public builds. e.g., `/api/v0/ds3_builds?by_user_name=naiyt`
+  - `level_from` - builds will be greater than this value
+  - `level_to` - builds will be less than this value
+  - `by_title` - search for builds with this string in their title
 
 # Dark Souls 3 Weapons
 

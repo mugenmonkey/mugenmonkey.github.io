@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "DS3 Planner Release Notes: Bug Fixes"
-date:   2016-07-20 11:27:02 -0600
-comments: true
+date: 2016-07-20 11:27:02 -0600
 ---
 
 Hey all, today I fixed a few bugs for the Dark Souls 3 planner:

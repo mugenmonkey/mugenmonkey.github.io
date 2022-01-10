@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Beginners Guide to Dark Souls Character Creation with MugenMonkey"
-date:   2018-05-24 10:15:03 -0600
-comments: true
+date: 2018-05-24 10:15:03 -0600
 ---
 
 With the release of Dark Souls Remastered there will likely be a lot of new or returning [MugenMonkey](https://mugenmonkey.com/darksouls) users. MugenMonkey is (unfortunately) a bit intimidating at first. So here's a guide that will hopefully help those new players!
@@ -53,10 +52,10 @@ A weapon's attack rating (usually called AR in the community) is the amount of d
 
 If you hover above that number you'll see a breakdown of the damage values. In order, this shows:
 
-* Physical damage
-* Magic Damage
-* Fire Damage
-* Lightning Damage
+- Physical damage
+- Magic Damage
+- Fire Damage
+- Lightning Damage
 
 ## Equipping Armor
 

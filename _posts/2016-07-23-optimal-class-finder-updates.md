@@ -2,7 +2,6 @@
 layout: post
 title: "DS3 Planner Release Notes: Optimal Class Finder Updates"
 date: 2016-07-23 00:01:56 -0600
-comments: true
 ---
 
 I've improved the Dark Souls 3 Optimal Class Finder a bit. You can now find it located at the bottom of the planner in the new "Tools" sections:

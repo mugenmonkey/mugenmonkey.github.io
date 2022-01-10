@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "MugenMonkey Mobile App for Dark Souls 3"
-date:   2016-11-27 09:45:07 -0700
-comments: true
+date: 2016-11-27 09:45:07 -0700
 ---
 
 After about a month of beta testing, I'm happy to announce that version 1.0 of the DS3 Android Mobile App has been released! (Big thanks to the ~600 people who helped beta test it.)

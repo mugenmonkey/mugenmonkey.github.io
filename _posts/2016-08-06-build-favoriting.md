@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Build Favoriting"
-date:   2016-08-06 20:27:19 -0600
-comments: true
+date: 2016-08-06 20:27:19 -0600
 ---
 
 Today I re-introduced build favoriting. This used to work with Dark Souls 1, but was removed at some point. I've added it back, as well as enabled it for all build types (DS1, DS2, DS3, BB, DES)! This should be a handy way of keeping track of cool builds that you find.

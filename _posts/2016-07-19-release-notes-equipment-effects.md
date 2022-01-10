@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "DS3 Planner Release Notes: Equipment Effects Added and Updated"
-date:   2016-07-19 12:24:36 -0600
-comments: true
+date: 2016-07-19 12:24:36 -0600
 ---
 
 Today I finished re-working how the planner handles equipment effects. This has made it possible

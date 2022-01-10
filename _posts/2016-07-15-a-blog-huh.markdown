@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "A Mugenmonkey blog, huh?"
-date:   2016-07-15 14:46:00 -0600
-comments: true
+date: 2016-07-15 14:46:00 -0600
 ---
 
 Oh, hi there! I've been considering putting together a Mugenmonkey blog for awhile now. So I did it.

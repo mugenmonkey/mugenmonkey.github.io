@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Dark Souls 3 Armor Optimizer"
-date:   2016-07-25 17:03:00 -0600
-comments: true
+date: 2016-07-25 17:03:00 -0600
 ---
 
 Today I released an oft requested feature: [an armor optimizer for Dark Souls 3](https://mugenmonkey.com/darksouls3)! If you're already familiar with the DS1 armor optimizer you should feel right at home. If not, keep reading this post to get an overview of how the feature works and the cool stuff you can do with it.
@@ -60,4 +59,3 @@ If you click on that it'll pop open a list of all the armor sets. This allows yo
 And that's about it! If you notice any bugs or have any questions go ahead and hit me up [on Twitter](https://twitter.com/mugenmonkey) or [fill out a bug report](http://goo.gl/forms/bLUkmMau5U).
 
 \- naiyt
-

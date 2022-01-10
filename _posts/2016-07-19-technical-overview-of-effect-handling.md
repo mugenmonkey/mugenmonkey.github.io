@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Technical Overview of DS3 Planner Effect Handling"
-date:   2016-07-19 12:45:07 -0600
-comments: true
+date: 2016-07-19 12:45:07 -0600
 ---
 
 In the [previous post]({% post_url 2016-07-19-release-notes-equipment-effects %})
@@ -51,8 +50,8 @@ code can just look at those field to determine what to do.
 
 This solution came with two main issues:
 
-* It doesn't work for rings that affect multiple stats
-* If I wanted to do the same for other equipment types I would have to add those same columns to all of them (nasty)
+- It doesn't work for rings that affect multiple stats
+- If I wanted to do the same for other equipment types I would have to add those same columns to all of them (nasty)
 
 The natural solution to something like this is to create an effects table and have a
 "many-to-one" association between effects and equipment. In particular, I went with a

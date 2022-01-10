@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Old Mugenmonkey Changelogs"
-date:   2016-08-04 11:06:43 -0600
-comments: true
+date: 2016-08-04 11:06:43 -0600
 ---
 
 I've taken to posting all changelog messages here instead of on the frontpage of Mugenmonkey. This will allow me to remodel the frontpage to be a bit more helpful. Since I didn't want to just throw away all of those old announcements and changelog messages, I'll be adding them to this post for posterity.
@@ -59,7 +58,6 @@ You can save your Demon's and Dark Souls 2 builds to your original Mugenmonkey a
 
 The Dark Souls 2 planner has some sweet fashion-souls.com integration now. That site was created by citiral, and is great, so check it out! When you create a build, it will autogenerate the URL to access a Fashion Souls link that matches your current build's armor. See if you can beat my Fashion!
 
-
 ## Old Changelogs
 
 # July 15th, 2016
@@ -96,7 +94,7 @@ The Dark Souls 2 planner has some sweet fashion-souls.com integration now. That 
 
 # May 15th, 2016
 
-- DS3: Added a 2-handing option. Your strength will be current strength * 1.5 for the purpose of strength requirements
+- DS3: Added a 2-handing option. Your strength will be current strength \* 1.5 for the purpose of strength requirements
 - DS3 and DS2: Fixed a longstanding stat layout problem experienced in certain browsers
 - DS3: Removed the "Lingering Dragoncrest Ring +3" (doesn't exist in game). If you had a build with that ring it has been replaced with the Lingering Dragoncrest Ring +2
 - Sitewide: fixed a style regression preventing dropdown arrows from appearing in certain browsers

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Dark Souls 3 Build Randomizer"
-date:   2016-09-11 14:24:45 -0600
-comments: true
+date: 2016-09-11 14:24:45 -0600
 ---
 
 This is something I've had several people asking about for awhile. Needed a fun little project to work on today, so I decided to finally implement a build randomizer for the [Dark Souls 3 planner](https://mugenmonkey.com/darksouls3).

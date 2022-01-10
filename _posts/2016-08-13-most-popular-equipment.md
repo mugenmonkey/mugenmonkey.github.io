@@ -1,15 +1,14 @@
 ---
 layout: post
 title: "Most Popular Dark Souls 3 Equipment: A Look at 53,000 Builds"
-date:   2016-08-13 15:40:26 -0600
-comments: true
+date: 2016-08-13 15:40:26 -0600
 ---
 
 Mugenmonkey currently has over 53,000 saved builds for Dark Souls 3. All of that data makes for some interesting glimpses into the Dark Souls 3 "meta". As such, I've built a page that displays the total number of builds that each weapon, armor piece, ring, or spells is in. Additionally, you can view the most popular soul levels and starting classes.
 
 ## [Take a look here!](https://mugenmonkey.com/darksouls3/stats)
 
-Before I jump into looking at some of the interesting trends that we can glean from this, it's important to remember that while 53,000 is a lot, it's a small proportion of the total number of people who bought the game. It's going to over-represent the "hardcore" (whatever that means) PVPers who make many builds. Additionally, it's the *total* count of all builds from any time, so weapons that have since been nerfed or buffed may be over or under represented. What you see here isn't necessarily indicative of what people are actually using in game -- but I think it's a pretty good estimate, and interesting nonetheless.
+Before I jump into looking at some of the interesting trends that we can glean from this, it's important to remember that while 53,000 is a lot, it's a small proportion of the total number of people who bought the game. It's going to over-represent the "hardcore" (whatever that means) PVPers who make many builds. Additionally, it's the _total_ count of all builds from any time, so weapons that have since been nerfed or buffed may be over or under represented. What you see here isn't necessarily indicative of what people are actually using in game -- but I think it's a pretty good estimate, and interesting nonetheless.
 
 The values are updated every 10 minutes, so the numbers you read in this post won't necessarily reflect its current state.
 
@@ -61,4 +60,3 @@ Naturally, the only logical conclusion to this is the ability to now craft the u
 ...or we could go with the most hipster build, [utilizing all of the least popular equipment](https://mugenmonkey.com/darksouls3/66145).
 
 \- naiyt
-

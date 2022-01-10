@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Standalone Dark Souls 3 Weapon AR Calculator"
-date:   2016-08-02 13:37:34 -0600
-comments: true
+date: 2016-08-02 13:37:34 -0600
 ---
 
 Today I released a [standalone weapon AR calculator for Dark Souls 3](https://mugenmonkey.com/darksouls3/weapons). You can easily use this to get an overview of weapon AR at any level or infusion.

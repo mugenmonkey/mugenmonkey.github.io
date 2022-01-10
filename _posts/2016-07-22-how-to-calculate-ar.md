@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "How to Calculate AR for all Weapons and Infusions in Dark Souls 3"
-date:   2016-07-22 10:34:38 -0600
-comments: true
+date: 2016-07-22 10:34:38 -0600
 ---
 
 In this post I'll be presenting the canonical way to calculate AR (along with giving you all of the scaling data you need). In a subsequent post I'll go over how the scaling and saturation values can be extracted from the game's files.
@@ -35,7 +34,7 @@ Base Physical * (Strength Scaling Coefficient * Physical Saturation
 + Faith Scaling Coefficient * Dark Saturation)
 ```
 
-Before you run off screaming just know that once we break it down it won't seem *quite* so bad.
+Before you run off screaming just know that once we break it down it won't seem _quite_ so bad.
 
 # So Let's Break it Down!
 
@@ -56,7 +55,7 @@ Base Damage For That Damage Type * Weapon Coefficient(s)
 
 # Calculating Weapon Coefficients
 
-Now things start to get fun. The weapon coefficient is the multiplier that is determined by your weapon's scaling and your level in the corresponding stat. Keep in mind that the scaling *letters* don't have consistent scaling *values*. i.e., two weapons that have a strength scaling of "C" do not necessarily have the same scaling multipliers.
+Now things start to get fun. The weapon coefficient is the multiplier that is determined by your weapon's scaling and your level in the corresponding stat. Keep in mind that the scaling _letters_ don't have consistent scaling _values_. i.e., two weapons that have a strength scaling of "C" do not necessarily have the same scaling multipliers.
 
 Weapon coefficients are calculated as:
 
@@ -72,7 +71,7 @@ These are set values for each weapon and stat type. They can be found on [this s
 
 These can sort of be thought of as the "percentage" of the total potential AR of a weapon. These are set values for each level in the corresponding stat. This is where the increase in AR from leveling up actually comes from (and also how the "diminishing returns" are calculated.)
 
-The fun part, however, is there isn't just one set of saturation values -- there are actually *11*. Which one you use is determined by the weapon, infusion, and damage type. These are all included [in the spreadsheet](https://docs.google.com/spreadsheets/d/1nGXbJ5DEaWCtXHhj46Wws4HM0KkV85nyczJemqmtDF8/) mentioned above (and we'll go more in depth in the example section). Keep in mind that those values are **percentages** while this formula expects the **decimal** value -- thus, you'll need to divide them by 100.
+The fun part, however, is there isn't just one set of saturation values -- there are actually _11_. Which one you use is determined by the weapon, infusion, and damage type. These are all included [in the spreadsheet](https://docs.google.com/spreadsheets/d/1nGXbJ5DEaWCtXHhj46Wws4HM0KkV85nyczJemqmtDF8/) mentioned above (and we'll go more in depth in the example section). Keep in mind that those values are **percentages** while this formula expects the **decimal** value -- thus, you'll need to divide them by 100.
 
 # Physical Bonus
 
@@ -152,7 +151,7 @@ Let's calculate the AR for a **+10 Dark Falchion** with the following stats: **1
 First off, let's pop open [the scaling data spreadsheet](https://docs.google.com/spreadsheets/d/1nGXbJ5DEaWCtXHhj46Wws4HM0KkV85nyczJemqmtDF8) to get our base damages:
 
 | Damage Type | Damage |
-|-------------|--------|
+| ----------- | ------ |
 | Physical    | 112    |
 | Magic       | 0      |
 | Fire        | 0      |
@@ -174,7 +173,6 @@ Physical Bonus = 112 * Physical Coefficients
 To get our strength coefficient, we need to find the "strength scaling coefficient" and the "physical saturation". Going back to the spreadsheet we'll find that the strength coefficient for the Dark Falchion is `30`.
 
 For the saturation value, we look at the `Physical` column in the `Saturation Curves` section. We'll see that we want curve `0`. So, we open the "Saturation Curves" tab. From there, we find the `Level 15` (15 is our current strength) column for the `Curve Index - 0` row -- this gives us `19.80409249`.
-
 
 ```
 Strength Coefficient = 30/100 * 19.80409249/100 =~ 0.0594

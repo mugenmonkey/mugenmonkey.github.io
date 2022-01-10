@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "That Time I Did Twitch Plays Dark Souls"
-date:   2016-08-25 08:54:11 -0600
-comments: true
+date: 2016-08-25 08:54:11 -0600
 ---
 
 Remember the "Twitch Plays XYZ" fad back in 2014? Everyone was trying to jump on the bandwagon with their own "Twitch Plays Thing". One joke people kept passing around was "what about Twitch Plays Dark Souls hurr durr hurr!". Not being a particularly clever man I decided to actually give this a shot.

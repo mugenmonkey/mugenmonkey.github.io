@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Build Updating"
-date:   2016-09-28 17:15:18 -0600
-comments: true
+date: 2016-09-28 17:15:18 -0600
 ---
 
 You now have the option to edit your builds (rather than always saving a new build). This should work for all 5 planners.

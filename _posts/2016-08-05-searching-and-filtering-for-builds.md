@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Sorting and Searching for Builds"
-date:   2016-08-05 15:05:24 -0600
-comments: true
+date: 2016-08-05 15:05:24 -0600
 ---
 
 One thing that I've felt Mugenmonkey has lacked for awhile is good discoverability for builds. Historically you've only been able to sort builds by newest/oldest/highest rated (and not many people rate builds -- something I hope to change with future updates). As such, I've released some updates today to make it easier to filter and search out builds.

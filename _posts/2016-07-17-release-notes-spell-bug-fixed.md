@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "DS3 Planner Release notes: Spell Bug Fixed"
-date:   2016-07-17 10:46:32 -0600
-comments: true
+date: 2016-07-17 10:46:32 -0600
 ---
 
 A bugfix was pushed up for the DS3 planner this morning. This resolves an issue where equipping spells

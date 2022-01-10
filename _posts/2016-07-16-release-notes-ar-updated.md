@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "DS3 Planner Release notes: AR updated for Regulation 1.09"
-date:   2016-07-16 16:49:52 -0600
-comments: true
+date: 2016-07-16 16:49:52 -0600
 ---
 
 ## Today I released the following updates:
@@ -13,7 +12,7 @@ This mainly affects certain weapons that now receive physical bonuses from Faith
 There were also a few nerfs (Anri's sword, for example). A more thorough examination of the changes in Regulation 1.09
 can be found [here](https://www.reddit.com/r/darksouls3/comments/4qqtpi/app_105_regulation_109_changes_megathread/).
 
-The values were mined out of the game's datafiles, so they *should* be accurate. However, it's possible
+The values were mined out of the game's datafiles, so they _should_ be accurate. However, it's possible
 something might have been inputted wrong, so if you see any problems let me know! (You can do so
 by [filling out this form](http://goo.gl/forms/bLUkmMau5U), yelling at me on [Twitter](https://twitter.com/mugenmonkey),
 or leaving a comment on this post.)
